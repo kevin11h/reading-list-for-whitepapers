@@ -12,4 +12,6 @@ https://bycoin.oss-cn-shanghai.aliyuncs.com/bytom/bytom.io/BytomWhitePaperV1.0_E
 
 https://www.binance.com/resources/ico/Binance_WhitePaper_en.pdf
 
+https://docs.hybridblock.io/whitepaper.pdf
+
 https://docs.neo.org/en-us/whitepaper.html
