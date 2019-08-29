@@ -29,3 +29,5 @@ https://docs.neo.org/en-us/whitepaper.html
 ## Hub
 
 https://www.hubtoken.org/images/hub-white-paper.pdf
+
+https://cryptosherlock.club/hub-token/#hunter-email:i**o@hubtoken.org
