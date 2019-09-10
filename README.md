@@ -31,3 +31,9 @@ https://docs.neo.org/en-us/whitepaper.html
 https://www.hubtoken.org/images/hub-white-paper.pdf
 
 https://cryptosherlock.club/hub-token/#hunter-email:i**o@hubtoken.org
+
+## FanFare
+https://tokensale.fanfare.global/files/Fanfare_Whitepaper.pdf
+
+## FoodNation
+https://v6p2a4u9.stackpathcdn.com/wp-content/uploads/Food-Nation-white-paper-Coll_Web.pdf
