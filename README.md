@@ -43,3 +43,6 @@ https://tokensale.fanfare.global/files/Fanfare_Whitepaper.pdf
 https://v6p2a4u9.stackpathcdn.com/wp-content/uploads/Food-Nation-white-paper-Coll_Web.pdf
 
 # Sesame Open 
+
+# Crowdvilla
+https://static2.coinpaprika.com/storage/cdn/whitepapers/10559715.pdf
