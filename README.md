@@ -46,3 +46,6 @@ https://v6p2a4u9.stackpathcdn.com/wp-content/uploads/Food-Nation-white-paper-Col
 
 # Crowdvilla
 https://static2.coinpaprika.com/storage/cdn/whitepapers/10559715.pdf
+
+# AlphaBLock
+https://github.com/kevin11hg/reading-list-for-whitepapers/blob/master/Consensus%20Fund-Factomhash-2-11%2BTOC.pdf
