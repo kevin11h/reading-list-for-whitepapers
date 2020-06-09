@@ -6,6 +6,12 @@ https://bitcoin.org/bitcoin.pdf
 ## Ethereum
 https://github.com/ethereum/wiki/wiki/White-Paper
 
+
+## Binance
+https://www.binance.com/resources/ico/Binance_WhitePaper_en.pdf
+
+
+
 ## Quantstamp
 https://crushcrypto.com/wp-content/uploads/2017/10/QSP-Whitepaper.pdf
 ## Kyber Network
@@ -23,8 +29,6 @@ https://github.com/WeTrustPlatform/documents/blob/master/WeTrustWhitePaper.pdf
 https://bycoin.oss-cn-shanghai.aliyuncs.com/bytom/bytom.io/BytomWhitePaperV1.0_En.pdf
 
 
-## Binance
-https://www.binance.com/resources/ico/Binance_WhitePaper_en.pdf
 
 ## Hybrid
 https://docs.hybridblock.io/whitepaper.pdf
