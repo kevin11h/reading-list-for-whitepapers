@@ -8,6 +8,13 @@ https://github.com/ethereum/wiki/wiki/White-Paper
 
 ## Quantstamp
 https://crushcrypto.com/wp-content/uploads/2017/10/QSP-Whitepaper.pdf
+## Kyber Network
+https://files.kyber.network/Kyber_Protocol_22_April_v0.1.pdf
+
+
+## OmiseGo
+https://cdn.omise.co/omg/whitepaper.pdf
+
 
 ## WeTrust
 https://github.com/WeTrustPlatform/documents/blob/master/WeTrustWhitePaper.pdf
@@ -49,3 +56,4 @@ https://static2.coinpaprika.com/storage/cdn/whitepapers/10559715.pdf
 
 # AlphaBLock
 https://github.com/kevin11hg/reading-list-for-whitepapers/blob/master/Consensus%20Fund-Factomhash-2-11%2BTOC.pdf
+
